@@ -1,4 +1,5 @@
 Fix to Tanggal Bulan Tahun
+
  public void setTanggal(View v) { final Calendar
             c = Calendar.getInstance(); int thn =
             c.get(Calendar.YEAR); int bln =
